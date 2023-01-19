@@ -33,3 +33,13 @@
 .justify-content-space-evenly {
   justify-content: space-evenly
 }
+.main-button{
+  background-color: #57575744;
+  border: 1px solid #57575744;
+  color: whitesmoke;
+}
+/* .titan-photo{
+  background-attachment: fixed;
+  background-image: image('titononlaptop.jpg');
+
+} */
