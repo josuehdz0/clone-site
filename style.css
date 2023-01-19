@@ -1,0 +1,24 @@
+.hero-one{
+  background-image: linear-gradient(#96cee9,#5ea2cf);
+  color: whitesmoke;
+}
+
+.cute-header{
+  background-color: #96cee9;
+  color: whitesmoke;
+}
+
+.white-card{
+  background-color: white;
+  box-shadow: 10px 10px 10px 10px;
+}
+
+.hero-two{
+  background-color: #5ea2cf ;
+  color: whitesmoke;
+}
+.cute-footer{
+  background-color: #364049;
+  color: whitesmoke;
+  
+}
